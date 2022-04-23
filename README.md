@@ -1,4 +1,4 @@
-# Hackintosh-AMD-Ryzen-9-3900x-MSI-TOMAHAWK-B450-MAX
+# z590-tomahawk-wifi-hackintosh-efi
 - This is the repository of my main system based on Msi B450 Tomahawk MAX.
 - From this repository you can download the EFI folder
 
