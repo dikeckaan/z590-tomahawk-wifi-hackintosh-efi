@@ -14,7 +14,7 @@
 - Storage : A lot of storage :) 6/6 sata ports are filled up.
 - Video Card : MSI MECH 5500 xt 4GB
 - Wifi Card : Intel® Wi-Fi 6E AX210
-- Bluetooth : Onboard bluetooth not working right now, i use Tp-link UB400
+- Bluetooth : Onboard bluetooth Intel® Wi-Fi 6E AX210
   
 ## OpenCore Version?
 0.8.0
@@ -22,7 +22,7 @@
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
 - [x] Bluetooth and ethernet
-- [x] Working with latest Monterey 12.3.1
+- [x] Working with latest Monterey 12.4 Beta (21F5058e)
 - [x] QE/CI Graphics Of MSI Mech 5500 xt 4G
 - [x] Restart and Shutdown. 
 - [x] Rear Jack (Green) + Front Speaker Jack (Headphone)
