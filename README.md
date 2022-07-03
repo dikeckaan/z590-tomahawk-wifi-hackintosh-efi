@@ -10,7 +10,7 @@
 - CPU : Intel i5 11600k
 - CPU Cooler : Arctic Freezer 34 eSports Duo
 - Motherboard : MSI MAG Z590 TOMAHAWK WIFI Bios 7D08v24
-- Memory : 16 GB (3x 8 GB) DDR4-3200 (Overclocked from 2666) CL16 Memory
+- Memory : Kingston FURY Beast RGB 64GB (2x32GB) 3200MHz DDR4 CL16
 - Storage : A lot of storage :) 6/6 sata ports are filled up.
 - Video Card : XFX Speedster MERC 319 RX 6900 XT Black Gaming V2 (no type-c output edition) , and my second gpu MSI MECH 5500 xt 4GB
 - Wifi Card : Intel® Wi-Fi 6E AX210
@@ -22,8 +22,8 @@
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
 - [x] Bluetooth and ethernet
-- [x] Working with latest Monterey 12.4 Beta (21F5058e)
-- [x] QE/CI Graphics Of MSI Mech 5500 xt 4G
+- [x] Working with latest Monterey 12.4 (21F79)
+- [x] QE/CI Graphics Of XFX Speedster MERC 319 RX 6900 XT Black Gaming V2 and MSI Mech 5500 xt 4G
 - [x] Restart and Shutdown. 
 - [x] Rear Jack (Green) + Front Speaker Jack (Headphone)
 - [x] HDMI Audio
