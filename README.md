@@ -23,7 +23,7 @@
 - [x] WIFI AirportBrcmFixup Fixed :)
 - [x] Bluetooth and ethernet
 - [x] Working with latest Monterey 12.4 (21F79)
-- [x] QE/CI Graphics Of XFX Speedster MERC 319 RX 6900 XT Black Gaming V2 and MSI Mech 5500 xt 4G
+- [x] QE/CI Graphics Of XFX Speedster MERC 319 RX 6900 XT Black Gaming V2 or MSI Mech 5500 xt 4G
 - [x] Restart and Shutdown. 
 - [x] Rear Jack (Green) + Front Speaker Jack (Headphone)
 - [x] HDMI Audio
