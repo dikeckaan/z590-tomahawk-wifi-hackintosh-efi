@@ -12,7 +12,7 @@
 - Motherboard : MSI MAG Z590 TOMAHAWK WIFI Bios 7D08v24
 - Memory : 16 GB (3x 8 GB) DDR4-3200 (Overclocked from 2666) CL16 Memory
 - Storage : A lot of storage :) 6/6 sata ports are filled up.
-- Video Card : MSI MECH 5500 xt 4GB
+- Video Card : XFX Speedster MERC 319 RX 6900 XT Black Gaming V2 (no type-c output edition) , and my second gpu MSI MECH 5500 xt 4GB
 - Wifi Card : Intel® Wi-Fi 6E AX210
 - Bluetooth : Onboard bluetooth Intel® Wi-Fi 6E AX210
   
